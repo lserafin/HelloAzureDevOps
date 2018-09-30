@@ -6,7 +6,7 @@ namespace HelloAzureDevOps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Azure DevOps!");
+            Console.WriteLine("Hello Azure DevOps Test CI!");
         }
     }
 }
